@@ -1,4 +1,3 @@
-
 README.md
 Installation
 $ pkg update && pkg upgrade
