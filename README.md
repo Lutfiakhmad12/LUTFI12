@@ -1,5 +1,3 @@
-#Installation
-
 $ pkg update && pkg upgrade
 
 $ pkg install python2
@@ -13,6 +11,7 @@ $ cd LUTFI12
 $ python2 LUTFI.py
 
 #Info Menu :
+
 [01] Dump id public
 
 [02] Dump id followers
@@ -31,6 +30,7 @@ $ python2 LUTFI.py
 
 
 #Methode crack :
+
 [01] methode b-api (crack cepat)
 
 [02] methode mbasic (crack lambat)
