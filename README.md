@@ -1,17 +1,18 @@
 # LUTFI12
-Recode cok🗿
-
-
-
-Installation
+#Installation
 $ pkg update && pkg upgrade
+
 $ pkg install python2
+
 $ pkg install git
+
 $ git clone https://github.com/Lutfiakhmad12/LUTFI12
+
 $ cd LUTFI12
+
 $ python2 LUTFI.py
 
-Info Menu :
+#Info Menu :
 [01] Dump id public
 [02] Dump id followers
 [03] Dump id reaction post
@@ -21,7 +22,7 @@ Info Menu :
 [07] Cek hasil crack
 [00] Keluar (hapus token)
 
-Methode crack :
+#Methode crack :
 [01] methode b-api (crack cepat)
 [02] methode mbasic (crack lambat)
 [03] methode mobile (crack sangat lambat)
